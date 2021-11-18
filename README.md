@@ -2,14 +2,18 @@
 A list of classes in machine learning and statistics I've taken
 
 ## Fall 2019
-   GCB   536   TOPICS IN COMPUTATIONAL BIOLOGY
+   GCB   536   TOPICS IN COMPUTATIONAL BIOLOGY[Description]();[Schedule]()
                                           
                                           
-   GCB    533   INTRO TO PROB AND STAT    
+   GCB    533   [INTRO TO PROB AND STAT]()    
   
 
 ## Spring 2020     
    BSTA   787   [STAT GENETICS & GENOMICS](https://www.med.upenn.edu/bgs/assets/user-content/documents/spring-2020-courses/bsta-787.pdf)
+   
+   
+## Summer 2020
+   [Independent Study of Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) 
    
 
 ## Fall 2020       
