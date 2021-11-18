@@ -2,7 +2,7 @@
 A list of classes in machine learning and statistics I've taken
 
 ## Fall 2019       BIO MEDICAL PHD
-   BIOL   571   TOPICS IN COMPUTATIONAL BIOLOGY
+   GCB   536   TOPICS IN COMPUTATIONAL BIOLOGY
                                           
                                           
    GCB    533   INTRO TO PROB AND STAT    
@@ -21,7 +21,7 @@ A list of classes in machine learning and statistics I've taken
 
 
 ## Fall 2021       BIO MEDICAL PHD
-   BSTA   550   APPLIED REG & ANALY VAR  
+   BSTA   550   [APPLIED REG & ANALY VAR](https://github.com/jeneaadams/machine-learning-classes/blob/main/syllabus_stat500_21.pdf)  
    
 
 ## Spring 2022     BIO MEDICAL PHD
