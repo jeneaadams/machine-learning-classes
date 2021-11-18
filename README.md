@@ -17,7 +17,8 @@ A list of classes in machine learning and statistics I've taken
    
 
 ## Fall 2020       
-   CIS    520   [APPLIED MACHINE LEARNING](https://alliance.seas.upenn.edu/~cis520/wiki/)          
+   CIS    520   [APPLIED MACHINE LEARNING](https://alliance.seas.upenn.edu/~cis520/wiki/); [Project](https://github.com/jeneaadams/machine-learning-bc-classification)
+   
    
 
 ## Spring 2021    
