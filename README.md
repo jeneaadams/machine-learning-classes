@@ -2,10 +2,10 @@
 A list of classes in machine learning and statistics I've taken
 
 ## Fall 2019
-   GCB   536   TOPICS IN COMPUTATIONAL BIOLOGY[Description]();[Schedule]()
+   GCB   536   TOPICS IN COMPUTATIONAL BIOLOGY - [Description](); [Schedule](https://github.com/jeneaadams/machine-learning-classes/blob/main/Schedule2021.pdf)
                                           
                                           
-   GCB    533   [INTRO TO PROB AND STAT]()    
+   GCB    533   [INTRO TO PROB AND STAT](https://github.com/jeneaadams/machine-learning-classes/blob/main/GCB533_2021.pdf)    
   
 
 ## Spring 2020     
