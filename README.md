@@ -1,4 +1,4 @@
-# machine-learning-classes
+# Statistics and Machine Learning Classes
 A list of classes in machine learning and statistics I've taken
 
 ## Fall 2019       BIO MEDICAL PHD
