@@ -39,7 +39,7 @@ A list of classes in machine learning and statistics I've taken
    STAT 5710    Modern Data Mining 
 
 ## Fall 2023
-   STAT 5150 Advanced Statistical Inference
-   STAT 9910   Stat Seminar
-   STAT 9910    Optimization Seminar
+   ### STAT 5150 Advanced Statistical Inference
+   ### STAT 9910   Stat Seminar
+   ### STAT 9910    Optimization Seminar
                    
