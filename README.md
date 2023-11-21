@@ -31,4 +31,15 @@ A list of classes in machine learning and statistics I've taken
 
 ## Spring 2022    
    STAT   927   [BAYESIAN MODELING AND COMPUTATION](https://apps.wharton.upenn.edu/syllabi/2020A/STAT927001/)    
+
+## Fall 2022
+   STAT 5100    Probability
+
+## Spring 2023 
+   STAT 5710    Modern Data Mining 
+
+## Fall 2023
+   STAT 5150 Advanced Statistical Inference
+   STAT 9910   Stat Seminar
+   STAT 9910    Optimization Seminar
                    
